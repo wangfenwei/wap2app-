@@ -17,6 +17,7 @@
 - 启动图配置，按尺寸对位一个个选择插入
 - 模块权限配置，去掉Payment(支付)和push(消息推送)
 - 源码视图添加urlscheme 
+
  ![avatar](http://ae01.alicdn.com/kf/HTB1DI6GMAvoK1RjSZFD760Y3pXae.png)
 
 ```
@@ -47,6 +48,7 @@
                     "<uses-feature android:name=\"android.hardware.camera\"/>",
 ```
 ####4.修改站点文件（sitemap.json）,直接拷贝下面的代码覆盖，需要修改matchUrls中的acid
+
 ![avatar](http://ae01.alicdn.com/kf/HTB1go2WMgHqK1RjSZFE763GMXXaj.png)
 ```
 {
@@ -108,6 +110,7 @@
 去除广告联盟所有选项
 打包，等待工具的左下角出先打包成功并返回apk下载链接
 下载apk
+
 ![avatar](http://ae01.alicdn.com/kf/HTB1AZzTMbPpK1RjSZFF7615PpXam.png)
 
 
