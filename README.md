@@ -123,6 +123,7 @@
 选择私钥证书（需要后面申请生产P12证书，详细请阅读下面的创建iOS发布描述文件（.mobileprovision文件）教程）
 打包，等待工具的左下角出先打包成功并返回ipa下载链接
 下载ipa
+
 ![avatar](http://ae01.alicdn.com/kf/HTB1fnjSMbPpK1RjSZFF7615PpXah.png)
 
 ---------
@@ -133,6 +134,7 @@
 - 选择运用分发->安卓运用管理->创建软件
 - 根据要求流程完成必填的选项，注意需要上传一张证明材料（上传资质证明，需要盖章）下载地址：http://img.ucdl.pp.uc.cn/upload_files/app_open_platform/docs/%E9%98%BF%E9%87%8C%E5%BA%94%E7%94%A8%E5%88%86%E5%8F%91%E5%BC%80%E5%8F%91%E8%80%85%E5%A3%B0%E6%98%8E%E6%96%87%E4%BB%B6.doc
 - 填写材料无误，提交运用审核。
+
 ![avater](http://ae01.alicdn.com/kf/HTB18qfZMhTpK1RjSZR0762EwXXa5.png)
 
 ###三、iOS运用上架流程
