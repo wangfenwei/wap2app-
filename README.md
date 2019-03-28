@@ -8,6 +8,7 @@
 ####  1.下载hbuliderx
 - 下载地址：http://www.dcloud.io/hbuilderx.html
 - hbuliderx登录账号：277589237@qq.com as19911126
+
 ####2.新建项目
 - 文件->新建项目->选择wap2app
 - 填写项目名称（平台名称），填写首页地址（手机网页的首页地址，比如无界特训的：http://m.iydmall.com/index.php?i=81&do=mobile）
