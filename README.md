@@ -33,7 +33,7 @@
 				"urltypes": [
 					{
 						"urlidentifier": "io.dcloud.wjtx",
-						"urlschemes": ["81.iydmall.com"]
+						"urlschemes": ["acid81.iydmall.com"]
 					}
 				]
             },
@@ -43,7 +43,7 @@
                 "password" : "", /*Android应用打包使用密钥库中证书的密码*/
                 "aliasname" : "", /*Android应用打包使用密钥库中证书的别名*/
 				"schemes": [
-					"81.iydmall.com"
+					"acid81.iydmall.com"
 				],
                 "permissions" : [
                     "<uses-feature android:name=\"android.hardware.camera\"/>",
