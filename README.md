@@ -45,6 +45,7 @@
 				]
             },
             "google" : {
+		"targetSdkVersion":26,
                 "packagename" : "", /*Android应用包名，如io.dcloud.HelloH5*/
                 "keystore" : "", /*Android应用打包使用的密钥库文件*/
                 "password" : "", /*Android应用打包使用密钥库中证书的密码*/
